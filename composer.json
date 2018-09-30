@@ -1,6 +1,6 @@
 {
-  "name": "magento/marketplace-eqp",
-  "description": "A set of PHP_CodeSniffer rules and sniffs.",
+  "name": "vaimo/coding-standards",
+  "description": "A set of PHP_CodeSniffer rules and sniffs (mirro of official M2 coding standards that's always tagged)",
   "license": "MIT",
   "require": {
     "php": ">=5.5.0",
