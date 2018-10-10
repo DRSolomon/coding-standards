@@ -1,4 +1,7 @@
 # Magento Extension Quality Program Coding Standard
+
+**NOTE: Vaimo for of EQP, no changes to be made other than tagging the TIP of the module!!!**
+
 [![Build Status](https://travis-ci.org/magento/marketplace-eqp.svg?branch=master)](https://travis-ci.org/magento/marketplace-eqp)
 
 Magento EQP Coding Standard is a set of rules and sniffs for [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) tool.
