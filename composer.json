@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
   "name": "vaimo/coding-standards",
   "description": "A set of PHP_CodeSniffer rules and sniffs (mirro of official M2 coding standards that's always tagged)",
+=======
+  "name": "magento/marketplace-eqp",
+  "version": "2.0.0",
+  "description": "A set of PHP_CodeSniffer rules and sniffs.",
+>>>>>>> 82b66e21535a8ccdddadab899205d241bfc8fedb
   "license": "MIT",
+  "type": "phpcodesniffer-standard",
   "require": {
     "php": ">=5.5.0",
     "squizlabs/php_codesniffer": "3.*"
